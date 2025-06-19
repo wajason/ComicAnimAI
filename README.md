@@ -20,3 +20,13 @@ Welcome to ComicAnimAI, an open-source project that transforms static manga page
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ComicAnimAI.git
+
+
+## Future Plans
+Enhance panel segmentation accuracy with deep learning models.
+Support longer video generation with optimized memory usage.
+Expand dataset with community contributions.
+Add manual panel adjustment and more voice options.
+
+## Contribution
+Feel free to fork, star, and contribute! Upload your own manga datasets or suggest features. Let's make manga animation accessible to all!
